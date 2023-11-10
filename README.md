@@ -1,1 +1,3 @@
-# gh_cli_study
+github is [here](github.com/)
+
+i used home homebrew
